@@ -1,8 +1,9 @@
 #!/bin/bash
+# 1. Defino la ruta donde guardaré los registros de seguridad y la creo si no existe
 LOG_DIR="/root/logs"
 LOG_FILE="$LOG_DIR/eliel_audit_ports.log"
 mkdir -p "$LOG_DIR"
-
+# 2. Creo una función que registra la fecha exacta y los puertos que están abiertos
 eliel_audit() {
     echo "=== AUDITORÍA DE ELIEL - $(date) ===" >> "$LOG_FILE"
     echo "Puertos escuchando (TCP/UDP):" >> "$LOG_FILE"

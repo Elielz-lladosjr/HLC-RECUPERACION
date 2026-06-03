@@ -7,7 +7,7 @@ RUN mkdir -p /var/lib/postgresql/data /var/run/postgresql \
     && chown -R postgres:postgres /var/lib/postgresql /var/run/postgresql \
     && chmod 777 /var/run/postgresql
 
-# RUTA CORREGIDA: Apunta al script exacto
+# Apunta al script exacto
 COPY dockerfiles/postgre/entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh
 

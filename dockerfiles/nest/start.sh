@@ -1,15 +1,12 @@
 #!/bin/bash
-
-# 1. Ejecutamos el script de auditoría de seguridad en segundo plano (&)
-# Esto asegura que los puertos y accesos SSH queden registrados sin bloquear el arranque de la API.
+# 1. Ejecutamos el script de seguridad en segundo plano para que se ejecute junto con la aplicación NestJS
 bash /home/eliel/scripts/eliel-security.sh &
 
-# 2. Nos movemos al directorio de trabajo donde está el código de NestJS
+# 2. Me ubico en mi directorio de trabajo aislado
 cd /home/eliel/app
-
-# 3. Instalamos las dependencias de Node definidas en package.json
+# 3. Instalo las dependencias y compilo el código fuente de NestJS
 npm install
 npm run build
 
-# Esto es vital para evitar problemas de memoria y rendimiento que da el modo 'dev' en Kubernetes.
+#para levantar la API en modo producción
 npm run start:prod

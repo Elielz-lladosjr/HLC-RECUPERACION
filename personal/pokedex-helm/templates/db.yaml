@@ -4,7 +4,7 @@ metadata:
   name: {{ .Values.db.name }}
   namespace: {{ .Values.namespace }}
 spec:
-  replicas: 2
+  replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
       app: db
@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: postgres
-        image: postgres:15
+        image: {{ .Values.images.db }}
         env:
         - name: POSTGRES_USER
           value: {{ .Values.api.env.dbUser | quote }}

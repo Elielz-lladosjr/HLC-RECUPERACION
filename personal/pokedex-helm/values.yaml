@@ -4,9 +4,9 @@ namespace: proyecto-eliel
 
 # --- IMÁGENES ---
 images:
-  api: api-nest:latest
+  api: api-nest:v3
   frontend: front-pokedex:latest
-  db: db-postgres:latest
+  db: postgres:15
 
 # --- CONFIGURACIÓN DE LA API (NESTJS) ---
 api:
