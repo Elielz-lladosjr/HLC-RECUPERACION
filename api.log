@@ -5,3 +5,14 @@ Handling connection for 30007
 Handling connection for 30007
 Handling connection for 30007
 Handling connection for 30007
+Handling connection for 30007
+Handling connection for 30007
+Handling connection for 30007
+Handling connection for 30007
+Handling connection for 30007
+E0604 12:33:16.029623 1909827 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30007->45.79.115.134:54678: read tcp4 10.0.0.161:30007->45.79.115.134:54678: read: connection reset by peer"
+Handling connection for 30007
+E0604 12:33:16.856933 1909827 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30007->45.79.115.134:54679: read tcp4 10.0.0.161:30007->45.79.115.134:54679: read: connection reset by peer"
+Handling connection for 30007
+Handling connection for 30007
+Handling connection for 30007

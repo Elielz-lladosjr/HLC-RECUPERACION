@@ -1,0 +1,28 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: pokedex-ingress
+  namespace: {{ .Values.namespace }}
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+  - host: pokedex-eliel.duckdns.org
+    http:
+      paths:
+      # El tráfico normal de la web va al Frontend
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: {{ .Values.frontend.serviceName }}
+            port:
+              number: {{ .Values.frontend.containerPort }}
+      # Todo lo que tenga /api en la URL va directo al Backend (NestJS)
+      - path: /api
+        pathType: Prefix
+        backend:
+          service:
+            name: {{ .Values.api.serviceName }}
+            port:
+              number: {{ .Values.api.containerPort }}

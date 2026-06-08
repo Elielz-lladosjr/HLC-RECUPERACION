@@ -2,3 +2,200 @@ nohup: ignoring input
 Forwarding from 0.0.0.0:30005 -> 5173
 Handling connection for 30005
 Handling connection for 30005
+Handling connection for 30005
+E0603 18:45:39.371027 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->69.5.169.76:24303: read tcp4 10.0.0.161:30005->69.5.169.76:24303: read: connection reset by peer"
+Handling connection for 30005
+E0603 18:47:35.857740 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->5.226.140.79:13922: read tcp4 10.0.0.161:30005->5.226.140.79:13922: read: connection reset by peer"
+Handling connection for 30005
+E0603 18:47:35.902445 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->188.240.59.50:15578: read tcp4 10.0.0.161:30005->188.240.59.50:15578: read: connection reset by peer"
+Handling connection for 30005
+E0603 18:47:35.940002 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->188.240.59.58:9346: read tcp4 10.0.0.161:30005->188.240.59.58:9346: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0604 02:38:47.703824 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->45.79.207.181:34869: read tcp4 10.0.0.161:30005->45.79.207.181:34869: read: connection reset by peer"
+Handling connection for 30005
+E0604 02:38:48.042112 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->45.79.207.181:34870: read tcp4 10.0.0.161:30005->45.79.207.181:34870: read: connection reset by peer"
+Handling connection for 30005
+E0604 03:07:33.767792 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->167.94.146.53:32574: read tcp4 10.0.0.161:30005->167.94.146.53:32574: read: connection reset by peer"
+Handling connection for 30005
+E0604 03:07:33.806928 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->167.94.146.53:32586: read tcp4 10.0.0.161:30005->167.94.146.53:32586: read: connection reset by peer"
+Handling connection for 30005
+E0604 03:07:37.299695 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->167.94.146.53:32600: read tcp4 10.0.0.161:30005->167.94.146.53:32600: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0604 03:07:44.688544 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->167.94.146.53:14076: read tcp4 10.0.0.161:30005->167.94.146.53:14076: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0604 11:04:38.813812 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->69.5.169.109:65089: read tcp4 10.0.0.161:30005->69.5.169.109:65089: read: connection reset by peer"
+Handling connection for 30005
+E0604 11:04:47.830775 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->217.146.80.116:2262: read tcp4 10.0.0.161:30005->217.146.80.116:2262: read: connection reset by peer"
+Handling connection for 30005
+E0604 11:04:47.935146 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->195.206.182.213:13774: read tcp4 10.0.0.161:30005->195.206.182.213:13774: read: connection reset by peer"
+Handling connection for 30005
+E0604 11:04:47.981403 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->89.37.172.158:15190: read tcp4 10.0.0.161:30005->89.37.172.158:15190: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0604 20:45:08.289324 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.83:30602: read tcp4 10.0.0.161:30005->66.132.195.83:30602: read: connection reset by peer"
+Handling connection for 30005
+E0604 20:45:08.515064 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.83:30604: read tcp4 10.0.0.161:30005->66.132.195.83:30604: read: connection reset by peer"
+Handling connection for 30005
+E0604 20:45:11.727512 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.83:30620: read tcp4 10.0.0.161:30005->66.132.195.83:30620: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0604 20:45:15.398573 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.83:15692: read tcp4 10.0.0.161:30005->66.132.195.83:15692: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0605 00:46:18.040599 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->89.37.172.154:14764: read tcp4 10.0.0.161:30005->89.37.172.154:14764: read: connection reset by peer"
+Handling connection for 30005
+E0605 00:46:18.079795 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->188.240.59.61:13902: read tcp4 10.0.0.161:30005->188.240.59.61:13902: read: connection reset by peer"
+Handling connection for 30005
+E0605 00:46:18.116786 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->31.14.254.76:7178: read tcp4 10.0.0.161:30005->31.14.254.76:7178: read: connection reset by peer"
+Handling connection for 30005
+E0605 02:16:51.670496 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->185.216.145.188:7422: read tcp4 10.0.0.161:30005->185.216.145.188:7422: read: connection reset by peer"
+Handling connection for 30005
+E0605 02:16:51.732792 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->193.32.209.244:6906: read tcp4 10.0.0.161:30005->193.32.209.244:6906: read: connection reset by peer"
+Handling connection for 30005
+E0605 02:16:51.772278 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->89.37.172.154:10280: read tcp4 10.0.0.161:30005->89.37.172.154:10280: read: connection reset by peer"
+Handling connection for 30005
+E0605 02:46:38.261575 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.53:23962: read tcp4 10.0.0.161:30005->66.132.195.53:23962: read: connection reset by peer"
+Handling connection for 30005
+E0605 02:46:39.030570 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.53:27046: read tcp4 10.0.0.161:30005->66.132.195.53:27046: read: connection reset by peer"
+Handling connection for 30005
+E0605 02:46:43.370316 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.53:27050: read tcp4 10.0.0.161:30005->66.132.195.53:27050: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0605 10:15:06.320979 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->185.223.235.50:15766: read tcp4 10.0.0.161:30005->185.223.235.50:15766: read: connection reset by peer"
+Handling connection for 30005
+E0605 10:15:06.350653 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->185.223.235.40:9322: read tcp4 10.0.0.161:30005->185.223.235.40:9322: read: connection reset by peer"
+Handling connection for 30005
+E0605 13:31:38.807846 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->217.146.80.116:39133: read tcp4 10.0.0.161:30005->217.146.80.116:39133: read: connection reset by peer"
+Handling connection for 30005
+E0605 13:57:37.848355 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->193.176.31.249:7398: read tcp4 10.0.0.161:30005->193.176.31.249:7398: read: connection reset by peer"
+Handling connection for 30005
+E0605 13:57:37.874694 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->185.223.235.14:3276: read tcp4 10.0.0.161:30005->185.223.235.14:3276: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0605 19:08:48.835404 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->45.79.207.111:46279: read tcp4 10.0.0.161:30005->45.79.207.111:46279: read: connection reset by peer"
+Handling connection for 30005
+E0605 19:08:49.987777 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->45.79.207.111:46280: read tcp4 10.0.0.161:30005->45.79.207.111:46280: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+E0605 20:42:09.551736 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->45.33.109.8:49650: read tcp4 10.0.0.161:30005->45.33.109.8:49650: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0605 23:17:44.447309 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->193.176.31.244:13966: read tcp4 10.0.0.161:30005->193.176.31.244:13966: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0606 03:51:47.238944 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.195.120:19488: read tcp4 10.0.0.161:30005->66.132.195.120:19488: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0606 13:28:13.114914 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->204.76.203.222:8466: read tcp4 10.0.0.161:30005->204.76.203.222:8466: read: connection reset by peer"
+Handling connection for 30005
+E0606 13:28:13.143207 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->204.76.203.212:7322: read tcp4 10.0.0.161:30005->204.76.203.212:7322: read: connection reset by peer"
+Handling connection for 30005
+E0606 13:28:13.183757 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->204.76.203.213:19172: read tcp4 10.0.0.161:30005->204.76.203.213:19172: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+E0606 13:57:29.031741 1924302 portforward.go:502] "Unhandled Error" err="error copying from local connection to remote stream: writeto tcp4 10.0.0.161:30005->66.132.172.192:30018: read tcp4 10.0.0.161:30005->66.132.172.192:30018: read: connection reset by peer"
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
+Handling connection for 30005
